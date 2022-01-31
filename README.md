@@ -1,9 +1,7 @@
 ## Olá, eu sou o Gildson Bezerra
 
-* Sou Bacharel em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte e atualmente estou me formando em Engenharia de Computação;
+* Sou Bacharel em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN) e estou me formando em Engenharia de Computação na UFRN;
 * Estagiário na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
-* Atualmente estou me aprofundando no desenvolvimento web, utilizando o ReactJS e também em C++ voltado para o desempenho do hardware;
-* Participo voluntariamente no desenvolvimento do site de uma ONG e sou freelancer no desenvolvimento do site de uma loja de artigos militares.
 
 ##
 
