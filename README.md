@@ -1,7 +1,8 @@
 ## Olá, eu sou o Gildson Bezerra
 
-* Sou Bacharel em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN) e estou me formando em Engenharia de Computação na UFRN;
-* Estagiário na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
+* Sou Bacharel em Ciência e Tecnologia e graduando em Engenharia de Computação na UFRN;
+* Fiz estágio na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
+* Atualmente trabalho como prestador de serviços de desenvolvimento para uma empresa do ramo de administração de postos de combustíveis, desenvolvo uma plataforma web que irá ajudar a gerenciar todo posto, utilizando a plataforma no-code Bubble.
 
 ##
 
@@ -19,7 +20,6 @@
     <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
   
   ##
