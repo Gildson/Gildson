@@ -2,7 +2,7 @@
 
 * Sou Bacharel em Ciência e Tecnologia e graduando em Engenharia de Computação na UFRN;
 * Fiz estágio na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
-* Atualmente trabalho como prestador de serviços de desenvolvimento para uma empresa do ramo de administração de postos de combustíveis, desenvolvo uma plataforma web que irá ajudar a gerenciar todo posto, utilizando a plataforma no-code Bubble.
+* Atualmente trabalho como prestador de serviços de desenvolvimento para uma empresa do ramo de administração de postos de combustíveis, desenvolvendo uma plataforma web que irá ajudar a gerenciar todo posto, utilizando a plataforma no-code Bubble.
 
 ##
 
