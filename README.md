@@ -10,7 +10,7 @@
 <br>
 <div>
   <a href="https://github.com/Gildson">
-    <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=Gildson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Gildson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gildson&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
