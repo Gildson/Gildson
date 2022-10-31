@@ -3,7 +3,7 @@
 * Bacharel em Ciência e Tecnologia e graduando em Engenharia de Computação na UFRN (Último periódo);
 * TCC na area de IoT para veículos utilizando dados reais coletados no carro.
 * Fiz estágio na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
-* Atualmente trabalho como prestador de serviços de desenvolvimento web para uma empresa do ramo de administração de postos de combustíveis, desenvolvendo uma plataforma web que irá ajudar a gerenciar todo posto, utilizando a plataforma no-code Bubble.
+* Cientista de dados na Inovall Tecnologia, empresa que gera inteligência de mercado baseado em dados públicos captados na internet com a utilização de script programados em python.
 
 ##
 
