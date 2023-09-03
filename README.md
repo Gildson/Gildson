@@ -13,16 +13,22 @@
     <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=Gildson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gildson&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
-  <div style="display: inline_block">
-    <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  </div>
-  
-  ##
-  
-  <div>
-    <a href="https://www.linkedin.com/in/gildsonbsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+ 
+<div style="display: inline_block">
+  <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/gildsonbsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
