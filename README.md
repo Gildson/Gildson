@@ -16,9 +16,7 @@
 
  ## Hard Skills
 <div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,selenium,aws" />
-  </a>
+  <img align="center" height="60" width="90" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" height="60" width="90" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
 
