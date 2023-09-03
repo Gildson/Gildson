@@ -5,9 +5,8 @@
 * I did an internship at the Civil Police of Rio Grande do Norte in the areas of Networks, Maintenance and development;
 * I'm currently a Data Scientist at Inovall Tecnologia, a company that generates market intelligence based on public data captured on the internet using a python script.
 
-Here you will find some things I've done, and a small part of my knowledge.
-
 I have a newsletter on Linkedin where I talk about python, data mining and various other subjects, follow me there. The link is right below.
+
 <a href="https://www.linkedin.com/newsletters/7068380128199737344/">DataBytes: Python e Além<a/>
 ##
 
