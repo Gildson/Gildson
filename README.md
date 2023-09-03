@@ -1,9 +1,9 @@
 ## Olá, eu sou Gildson Bezerra
 
-* Engenheiro da Computação, formado pela Universidade Federal do Rio Grande do Norte (UFRN);
-* TCC na area de IoT para veículos, utilizando dados reais coletados no carro.
+* Sou Engenheiro da Computação, formado pela Universidade Federal do Rio Grande do Norte (UFRN);
+* Atualmente estou me especializando na area de engenharia de dados;
 * Fiz estágio na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
-* Cientista de dados Jr. na Inovall Tecnologia, empresa que gera inteligência de mercado baseado em dados públicos captados na internet com a utilização de script python.
+* Atualmente sou Cientista de dados Jr. na Inovall Tecnologia, empresa que gera inteligência de mercado baseado em dados públicos captados na internet com a utilização de script python.
 
 ##
 
