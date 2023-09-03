@@ -6,11 +6,13 @@
 * I'm currently a Data Scientist at Inovall Tecnologia, a company that generates market intelligence based on public data captured on the internet using a python script.
 
 Here you will find some things I've done, and a small part of my knowledge.
+I have a newsletter on Linkedin where I talk about python, data mining and various other subjects, follow me there. The link is right below.
+<a href="https://www.linkedin.com/newsletters/7068380128199737344/">DataBytes: Python e Além<a/>
 ##
 
 <br>
 <div>
-  <a href="https://github.com/Gildson">
+  <a href="https://github.com/Gildson" />
     <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=Gildson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gildson&layout=compact&langs_count=16&theme=dark"/>
 </div>
