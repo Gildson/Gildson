@@ -12,6 +12,7 @@
   <a href="https://github.com/Gildson">
     <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=Gildson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="200" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gildson&layout=compact&langs_count=16&theme=dark"/>
+    <img align="center" height="200" width="auto" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
 
  ## Hard Skills
