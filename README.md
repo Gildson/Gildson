@@ -1,9 +1,9 @@
-## Olá, eu sou Gildson Bezerra
+## Hi, I'm Gildson Santos
 
-* Sou Engenheiro da Computação, formado pela Universidade Federal do Rio Grande do Norte (UFRN);
-* Atualmente estou me especializando na area de engenharia de dados;
-* Fiz estágio na Policia Civil do Rio Grande do Norte nas areas de Redes, Manutenção e desenvolvimento;
-* Atualmente sou Cientista de dados Jr. na Inovall Tecnologia, empresa que gera inteligência de mercado baseado em dados públicos captados na internet com a utilização de script python.
+* I'm a Computer Engineer, graduated from the Federal University of Rio Grande do Norte (UFRN);
+* I'm currently specializing in data engineering;
+* I did an internship at the Civil Police of Rio Grande do Norte in the areas of Networks, Maintenance and development;
+* I'm currently a Data Scientist at Inovall Tecnologia, a company that generates market intelligence based on public data captured on the internet using a python script.
 
 ##
 
@@ -22,7 +22,7 @@
   <img align="center" height="40" width="100" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 </div>
 
-## Contatos
+## Contacts
 
 <div>
   <a href="https://www.linkedin.com/in/gildsonbsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
