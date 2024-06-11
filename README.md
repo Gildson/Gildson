@@ -1,9 +1,9 @@
 ## Hi, I'm Gildson Santos
 
 * I'm a Computer Engineer, graduated from the Federal University of Rio Grande do Norte (UFRN);
-* I'm currently specializing in data engineering;
-* I did an internship at the Civil Police of Rio Grande do Norte in the areas of Networks, Maintenance and development;
-* I'm currently a Data Scientist at Inovall Tecnologia, a company that generates market intelligence based on public data captured on the internet using a python script.
+* I worked as an internship at the Civil Police of Rio Grande do Norte in the areas of Networks, Maintenance and development;
+* I worked as a Data Scientist at Inovall Tecnologia for 8 months and later took on the role of Data Engineer;
+* I currently work as a machine learning engineer at JediCRM, working on creating ML and DL models aimed at the area of ​​computer vision and NLP.
 
 I have a newsletter on Linkedin where I talk about python, data mining and various other subjects, follow me there. The link is right below.
 
