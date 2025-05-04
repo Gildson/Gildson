@@ -20,8 +20,8 @@ I have a newsletter on Linkedin where I talk about python, data mining and vario
  ## Hard Skills
 <div>
   <img align="center" height="40" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" height="40" width="130" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img align="center" height="40" width="110" src="https://img.shields.io/badge/Microsoft_Azure-FF0000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img align="center" height="40" width="130" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0000FF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img align="center" height="40" width="110" src="https://img.shields.io/badge/Microsoft_Azure-0000FF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img align="center" height="40" width="110" src="https://img.shields.io/badge/Databricks-FF0000?style=for-the-badge&logo=datbricks&logoColor=white" />
 </div>
 
