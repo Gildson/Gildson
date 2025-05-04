@@ -1,9 +1,12 @@
 ## Hi, I'm Gildson Santos
 
-* I'm a Computer Engineer, graduated from the Federal University of Rio Grande do Norte (UFRN);
-* I worked as an internship at the Civil Police of Rio Grande do Norte in the areas of Networks, Maintenance and development;
-* I worked as a Data Scientist at Inovall Tecnologia for 8 months and later took on the role of Data Engineer;
-* I currently work as a machine learning engineer at JediCRM, working on creating ML and DL models aimed at the area of ​​computer vision and NLP.
+Data Engineer with solid experience in the area of ​​technology and artificial intelligence, working with a focus on Big Data solutions, data engineering and machine learning. I currently work as a Data Engineer at ArcelorMittal Sistemas, contributing to the development and maintenance of large-scale data pipelines, using tools such as Databricks, Spark and Azure Data Factory.
+
+My career includes relevant experiences as a Senior Python Developer at JediCRM, where I worked on the creation of AI models applied to computer vision and natural language processing (NLP). Before that, at Inovall, I was responsible for mining and processing data from web scraping, inserting it into relational databases with the support of frameworks such as Selenium and BeautifulSoup.
+
+I also worked at Posto Seguro Brasil, where I developed and improved web applications using the Bubble platform, creating modules such as legal and e-commerce, in addition to providing direct support to the end customer. At the beginning of my career, I interned at the Civil Police of Rio Grande do Norte, working with network infrastructure, user support and systems development with technologies such as ASP.NET, PHP, Java and various databases.
+
+I have a degree in Computer Engineering from the Federal University of Rio Grande do Norte and I have certifications in Apache Airflow, Databricks, Artificial Intelligence and Azure Data Factory. Proficient in Portuguese and English, I continue to improve my technical skills and contribute to high-impact solutions in data engineering and AI.
 
 I have a newsletter on Linkedin where I talk about python, data mining and various other subjects, follow me there. The link is right below.
 
