@@ -1,4 +1,4 @@
-## Hi, I'm Gildson Santos
+## Hi, I'm Gildson Santos 
 
 Data Engineer with solid experience in the area of ​​technology and artificial intelligence, working with a focus on Big Data solutions, data engineering and machine learning. I currently work as a Data Engineer at ArcelorMittal Sistemas, contributing to the development and maintenance of large-scale data pipelines, using tools such as Databricks, Spark and Azure Data Factory.
 
